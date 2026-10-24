@@ -1,0 +1,8 @@
+SITE BARBEARIA TOK DE BELEZA
+
+1. Abra index.html no navegador para visualizar.
+2. Para habilitar agendamentos, abra index.html em um editor e substitua TODAS as ocorrências de SEU_NUMERO_AQUI pelo número real do WhatsApp no formato 55 + DDD + número, apenas dígitos.
+3. Confirme com o proprietário os serviços, endereço, horários e preços antes de publicar; os serviços são sugestões.
+4. Foto da fachada: assets/fachada.jpg.
+5. Para publicar, envie index.html, style.css e a pasta assets à hospedagem.
+6. Crédito Dev. Kayko no rodapé, ligado ao Instagram @alien_okyak.
