@@ -6,3 +6,5 @@ SITE BARBEARIA TOK DE BELEZA
 4. Foto da fachada: assets/fachada.jpg.
 5. Para publicar, envie index.html, style.css e a pasta assets à hospedagem.
 6. Crédito Dev. Kayko no rodapé, ligado ao Instagram @alien_okyak.
+
+Atualizado: endereço Rua Nicarágua, 460, Arcoverde–PE, horário das 8h às 19h, mapa incorporado e link de rota. Dias não informados. Confirme WhatsApp antes de publicar.
