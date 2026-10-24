@@ -1,10 +1,21 @@
-SITE BARBEARIA TOK DE BELEZA
+BARBEARIA TOK DE BELEZA — VITRINE DE PRODUTOS (25 ITENS)
 
-1. Abra index.html no navegador para visualizar.
-2. Para habilitar agendamentos, abra index.html em um editor e substitua TODAS as ocorrências de SEU_NUMERO_AQUI pelo número real do WhatsApp no formato 55 + DDD + número, apenas dígitos.
-3. Confirme com o proprietário os serviços, endereço, horários e preços antes de publicar; os serviços são sugestões.
-4. Foto da fachada: assets/fachada.jpg.
-5. Para publicar, envie index.html, style.css e a pasta assets à hospedagem.
-6. Crédito Dev. Kayko no rodapé, ligado ao Instagram @alien_okyak.
+Abra index.html para testar o site. Publique a pasta inteira.
 
-Atualizado: endereço Rua Nicarágua, 460, Arcoverde–PE, horário das 8h às 19h, mapa incorporado e link de rota. Dias não informados. Confirme WhatsApp antes de publicar.
+ATENÇÃO SOBRE AS IMAGENS
+As 25 fotos na pasta assets/produtos/ foram recortadas, aprimoradas e padronizadas a partir das capturas fornecidas pelo usuário. Não são fotos oficiais em alta resolução e sua fidelidade está limitada à resolução da origem.
+
+A pasta imagens-ilustrativas-ia contém 4 exemplos adicionais gerados por IA. NÃO são reproduções exatas das embalagens e por isso NÃO são utilizados como imagens padrão no site. Antes da publicação comercial, solicite fotografias ou imagens oficiais autorizadas e confira nomes, tamanhos e rótulos.
+
+PREÇOS
+A página mostra 'Preço sob consulta': os preços em marketplace NÃO representam necessariamente o preço da barbearia. O estoque e as condições de entrega devem ser confirmados.
+
+ORÇAMENTO/CONTATO
+Ainda não foi informado WhatsApp da barbearia. Todos os botões usam o Instagram oficial https://www.instagram.com/barbearia_tokdebeleza/ até que o número seja fornecido.
+
+HORÁRIO
+8h às 19h, conforme informado, sem presunção dos dias da semana.
+
+O catálogo tem busca e filtros por categoria, com JavaScript nativo.
+
+Site: HTML + CSS + JavaScript. Crédito Dev. Kayko mantido no rodapé.
